@@ -1,5 +1,3 @@
-#pragma once
-
 #include "renderer.h"
 #include "vertexbuffer.h"
 

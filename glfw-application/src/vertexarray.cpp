@@ -1,5 +1,3 @@
-#pragma once
-
 #include "vertexarray.h"
 
 VertexArray::VertexArray()
